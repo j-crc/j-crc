@@ -1,6 +1,10 @@
 <div style="text-align:center">
   <img src="assets/ncis-hacker.gif" alt="" style="max-width: 60%;">
 </div>
+<br>
+<br>
+![](https://github-readme-stats.vercel.app/api?username=j-crc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 <!--
 **j-crc/j-crc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
