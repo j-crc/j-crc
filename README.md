@@ -1,5 +1,5 @@
 <div style="text-align:center">
-  <img src="assets/ncis-hacker.gif" alt="">
+  <img src="assets/ncis-hacker.gif" alt="" style="max-width: 60%;">
 </div>
 <!--
 **j-crc/j-crc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
