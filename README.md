@@ -3,8 +3,6 @@
 </div>
 <br>
 <br>
-[![j-crc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=j-crc&theme=radical&hide_border=true)]
-![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?j-crc=anuraghazra&show_icons=true&theme=radical)
 <!--
 **j-crc/j-crc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
