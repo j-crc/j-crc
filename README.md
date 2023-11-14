@@ -1,5 +1,5 @@
-### Hi there 👋
-![](https://media.tenor.com/p6MEw8rE8J8AAAAC/ncis-hacker.gif)
+
+![](assets/ncis-hacker.gif)
 <!--
 **j-crc/j-crc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
