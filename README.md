@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🧰 Tech Stack
+- 🛠️ AWS, Terraform, GitHub Actions
+- 🌐 HTML, CSS, JS
+- 🐍 Python
 
+---
 
+### 📊 Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-crc&layout=compact)
